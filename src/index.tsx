@@ -16,3 +16,5 @@ root.render(
 		</Analytic.Provider>
 	</StrictMode>
 );
+
+
